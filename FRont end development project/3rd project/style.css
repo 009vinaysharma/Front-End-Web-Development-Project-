@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+  }
+  
+  .hero {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 2em 0;
+  }
+  
+  .hero span {
+    color: #e74c3c;
+  }
+  
+  .navbar {
+    background: #444;
+    color: white;
+    text-align: center;
+  }
+  
+  .navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navbar li {
+    margin: 0 1em;
+  }
+  
+  .navbar a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 2em;
+    text-align: center;
+  }
+  
+  .skills ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .skills li {
+    background: #f4f4f4;
+    margin: 0.5em;
+    padding: 1em;
+    display: inline-block;
+  }
+  
+  .projects .project {
+    background: #f9f9f9;
+    margin: 1em;
+    padding: 1em;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .projects .project h3 {
+    margin-top: 0;
+  }
+  
+  .contact form {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  .contact input,
+  .contact textarea,
+  .contact button {
+    width: 100%;
+    padding: 0.5em;
+    margin-bottom: 1em;
+  }
+  
+  footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+  }
+  
